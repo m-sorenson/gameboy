@@ -1,0 +1,15 @@
+{
+  "name": "game_boy",
+  "version": "1.0.0",
+  "description": "stdin and stdout to play pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Sorenson",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.3.12",
+    "gameboy": "0.1.0"
+  }
+}
